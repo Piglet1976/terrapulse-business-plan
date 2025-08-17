@@ -1,0 +1,85 @@
+# TerraPulse Business Plan .gitignore
+
+# Temporary files
+*.tmp
+*.log
+~$*
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node modules (if any web components)
+node_modules/
+npm-debug.log*
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Log files
+*.log
+logs/
+
+# Cache directories
+.cache/
+*.cache
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+out/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
