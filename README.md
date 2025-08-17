@@ -5,13 +5,14 @@
 [![Status](https://img.shields.io/badge/Status-Business%20Plan-blue.svg)](README.md)
 [![Version](https://img.shields.io/badge/Version-1.0-green.svg)](README.md)
 
-### < Overview
+### <
+ Overview
 TerraPulse develops revolutionary eco-rounds technology - biodegradable ballistic delivery systems containing seeds, nutrients, and soil amendments designed to accelerate ecosystem restoration and combat desertification at unprecedented scale and efficiency.
 
-### <¯ Mission
+### <Â¯ Mission
 To restore 1 million hectares of degraded land globally by 2030 through precision ballistic reforestation technology, delivering measurable environmental impact while generating sustainable returns for investors.
 
-### =Ë Business Plan Structure
+### Business Plan Structure
 
 #### Core Strategy & Planning
 - **[01-Core-Strategy](01-Core-Strategy/)**: Strategic market positioning, competitive analysis, and technology roadmap
@@ -32,7 +33,7 @@ To restore 1 million hectares of degraded land globally by 2030 through precisio
 #### Supporting Documentation
 - **[09-Appendices-Documentation](09-Appendices-Documentation/)**: Detailed analyses, models, and cross-references
 
-### =€ Key Highlights
+### =â‚¬ Key Highlights
 
 #### Financial Projections
 - **Series A Funding**: $25M required for scaling operations
@@ -78,7 +79,7 @@ To restore 1 million hectares of degraded land globally by 2030 through precisio
 - **Mobile Platforms**: Truck-mounted systems for rapid deployment
 - **Fixed Installations**: Permanent systems for ongoing restoration programs
 
-### =Ê Implementation Roadmap
+### =ÃŠ Implementation Roadmap
 
 #### Phase 1: Pilot Validation (Q1-Q2 2025)
 - Complete Israeli Ministry of Agriculture pilot program
@@ -124,7 +125,7 @@ To restore 1 million hectares of degraded land globally by 2030 through precisio
 - **Environmental consultancy partnerships** for implementation
 - **Agricultural equipment dealers** for commercial markets
 
-### =È Investment Opportunity
+### =Ãˆ Investment Opportunity
 
 #### Funding Requirements
 - **Series A**: $25M for scaling and international expansion
@@ -138,7 +139,7 @@ To restore 1 million hectares of degraded land globally by 2030 through precisio
 - **Market Comparables**: Environmental technology companies trading at 4-6x revenue
 - **Strategic Value**: Significant acquisition interest from agriculture and defense sectors
 
-### =á Risk Management
+### =Ã¡ Risk Management
 
 #### Technology Risks
 - **Performance validation**: Extensive field testing and quality control
@@ -152,7 +153,7 @@ To restore 1 million hectares of degraded land globally by 2030 through precisio
 - **Economic sensitivity**: Diversified revenue streams and government backing
 - **Political stability**: Geographic diversification and local partnerships
 
-### =Þ Contact Information
+### =Ãž Contact Information
 
 #### Business Development
 - **Email**: business@terrapulse.com
@@ -167,7 +168,7 @@ To restore 1 million hectares of degraded land globally by 2030 through precisio
 
 ---
 
-### =Ë Repository Information
+### =Ã‹ Repository Information
 
 #### Document Status
 - **Current Version**: 1.0 (December 2024)
@@ -191,4 +192,4 @@ To restore 1 million hectares of degraded land globally by 2030 through precisio
 
 *This repository contains proprietary business information. Unauthorized distribution is prohibited. All projections are forward-looking statements subject to risks and uncertainties.*
 
-**© 2024 TerraPulse Technologies. All rights reserved.**
+**Â© 2024 TerraPulse Technologies. All rights reserved.**
